@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.8)  30 JAN 2026 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.8)  30 JAN 2026 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,14 +398,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 27.
 
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
 
-LaTeX Warning: Citation `example' on page 1 undefined on input line 37.
+ []
 
 
 
@@ -416,26 +417,22 @@ LaTeX Warning: Citation `example' on page 1 undefined on input line 37.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `2D.out' has not changed.
-(rerunfilecheck)             Checksum: 779EEE5CE857BFD6D31AA4B64802881D;302.
+(rerunfilecheck)             Checksum: 6382251FFD9A754B073E0E288C11F409;572.
  ) 
 Here is how much of TeX's memory you used:
- 10531 strings out of 473190
- 158770 string characters out of 5719980
- 556324 words of memory out of 5000000
- 33634 multiletter control sequences out of 15000+600000
- 608217 words of font info for 77 fonts, out of 8000000 for 9000
+ 10527 strings out of 473190
+ 158648 string characters out of 5719980
+ 557346 words of memory out of 5000000
+ 33630 multiletter control sequences out of 15000+600000
+ 608212 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,277b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-Output written on 2D.pdf (1 page, 154752 bytes).
+ 75i,6n,79p,312b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
+Output written on 2D.pdf (1 page, 110472 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
