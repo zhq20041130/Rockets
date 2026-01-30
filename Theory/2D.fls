@@ -193,11 +193,14 @@ INPUT d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT d:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT d:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT d:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT 2D.aux
 INPUT ./2D.out
 INPUT ./2D.out
 INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb
 INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
+INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb
 INPUT d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb

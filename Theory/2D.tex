@@ -30,7 +30,25 @@
 \section{Coordinate system and state variables}
 
 \subsection{1.Definition of system coordinate }
-1.Inertial frame of reference: origin at launch point
-2.
+1.Inertial frame of reference: origin at launch point\\
+2.Body axis system: origin at the center of gravity (CG), $\hat{x}_b$forward along the rocket's longitudinal axis, $\hat{y}_b$laterally (right-hand rule), and $\hat{z}_b$upward.\\
+\subsection{2.State variables}
+We can use 6 variables to describe the state of the rocket at any time \( t \):
+$s(t)=\begin{bmatrix}
+ x(t)\\
+ z(t)\\
+ v_x(t)\\
+ v_z(t)\\
+ \theta(t) \\
+ \omega(t)
+\end{bmatrix}$\\
+where:\\
+\( x(t) \): Horizontal position of the rocket's center of mass (CG) at time \( t \).\\
+\( z(t) \): Vertical position of the rocket's center of mass (CG) at time \( t \).\\
+\( v_x(t) \): Horizontal velocity component of the rocket at time \( t \).\\
+\( v_z(t) \): Vertical velocity component of the rocket at time \( t \).\\
+\( \theta(t) \): Pitch angle of the rocket relative to the horizontal axis at time \( t \).\\
+\( \omega(t) \): Angular velocity (rate of change of pitch angle) of the rocket at time \( t \).\\
+\(\omega = \frac{d\theta}{dt}\)\\
 
 \end{document}
